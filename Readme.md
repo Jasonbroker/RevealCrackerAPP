@@ -1,8 +1,1 @@
-FYI
-Sorry guys. Github sugggggggest me to Delete this kind of file. I remain this app FYI. 
-
-go for release: [Reveal.zip](https://github.com/Jasonbroker/RevealCrackerAPP/releases)
-
-Sorry....
-
-The old repo has been deleted... sry. guys
+An app which is for recycling iOS developing tool Reveal.
